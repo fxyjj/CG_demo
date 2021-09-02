@@ -4,4 +4,9 @@
 
 ### move your view inside the scene to see the whole scene;
 
-![Image text]
+![Image text](https://github.com/fxyjj/CG_demo/blob/main/CG_2019_%2016522077_PROJECT/demo_video/rt.gif)
+
+### lighting effect in the scene
+
+![Image text](https://github.com/fxyjj/CG_demo/blob/main/CG_2019_%2016522077_PROJECT/demo_video/le.gif)
+
